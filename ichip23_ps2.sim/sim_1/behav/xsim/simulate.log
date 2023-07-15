@@ -1,0 +1,4 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+count=        105
+$finish called at time : 104500 ps : File "C:/Users/HP/Desktop/Vivado Codes/ichip23/ichip23_ps2/ichip23_ps2.srcs/sim_1/new/MPU_tb.v" Line 56
